@@ -1,0 +1,25 @@
+.order_container {
+  background-color: #efeeee;
+  padding: 30px;
+}
+.orders {
+  background-color: #fff;
+  padding: 20px;
+}
+.orders h2 {
+  border-bottom: 2px solid #cd9042;
+}
+.each-order {
+  margin-bottom: 50px;
+}
+.order-id {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+.order-id-title {
+  font-weight: 700;
+}
+.order-id-no {
+  font-style: italic;
+  font-weight: 500;
+}

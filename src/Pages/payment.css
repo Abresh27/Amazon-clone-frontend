@@ -1,0 +1,74 @@
+.payment-nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 30px 90px 0px 90px;
+  border-color: #ddd !important;
+  border-style: solid !important;
+  border-width: 0 0 1px 0 !important;
+  background-image: url(https://images-na.ssl-images-amazon.com/images/G/31/common/sprites/tspc-header-bkg.png);
+}
+.item-counter {
+  font-size: 2vw;
+  font-weight: 450;
+  /* padding-top: 10px; */
+}
+.item-counter span {
+  color: #007185;
+}
+.payment-nav button {
+  border: none;
+  background-color: transparent;
+}
+.address-info,
+.listed-items,
+.payment-method {
+  display: flex;
+  padding: 20px 0px;
+  margin: 0px 30px;
+}
+.amazon-logo2 img {
+  width: 10vw;
+  /* height: 5vh; */
+}
+
+.section-title {
+  flex: 0.2;
+}
+.section-content {
+  flex: 0.8;
+}
+.address-info {
+  border-bottom: 1px solid lightgrey;
+}
+.payment-nav a {
+  text-decoration: none;
+  color: #000;
+}
+.payment-detail {
+  width: 40%;
+}
+.buy-now-btn {
+  white-space: nowrap;
+  font-size: 1vw;
+  background-color: #ffd814;
+  border-radius: 8px;
+  width: 50%;
+  height: 2.5vw;
+  border: 1px solid #fcd200;
+  color: #111;
+  margin: 20px 0px;
+}
+.buy-now-btn div {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  justify-content: center;
+  color: rgb(52, 52, 52);
+}
+@media screen and (max-width: 768px) {
+  .address-info,
+  .listed-items,
+  .payment-method {
+    flex-direction: column;
+  }
+}

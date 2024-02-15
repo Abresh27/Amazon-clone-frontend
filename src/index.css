@@ -1,0 +1,11 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+p {
+  margin-bottom: 0px;
+}
+.StripeElement {
+  width: 100% !important;
+  padding: 10px;
+}
