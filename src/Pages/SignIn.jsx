@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./signin.css";
+import "./signIn.css";
 import { Link, useNavigate, useLocation } from "react-router-dom";
 import { auth } from "../Helper/Firebase";
 import {
