@@ -1,6 +1,6 @@
 import React from "react";
 import BannerImg from "../Home/BannerImg";
-import "./home.css";
+import "./Home.css";
 import Product from "./Product";
 export default function Home() {
   return (
