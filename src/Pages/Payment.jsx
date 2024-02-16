@@ -87,7 +87,7 @@ export default function Payment() {
             <img
               src="https://pngimg.com/uploads/amazon/amazon_PNG1.png"
               className="d-inline-block align-top"
-              alt="Netflix logo"
+              alt="Amazon logo"
             />
           </Link>
         </div>

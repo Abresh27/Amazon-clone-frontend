@@ -24,9 +24,9 @@ function NavBar() {
         <Navbar.Brand>
           <Link to="home">
             <img
-              src="../../../public/Images/pngimg.com_amazon_PNG11.png"
+              src="https://pngimg.com/uploads/amazon/amazon_PNG11.png"
               width="100"
-              height="30"
+              height="35"
               className="d-inline-block align-top"
               alt="Netflix logo"
             />
@@ -64,7 +64,9 @@ function NavBar() {
               title={
                 <span>
                   <img
-                    src={"../../../public/Images/USA_flag2.jpg"}
+                    src={
+                      "https://wallpapers.com/images/high/american-flag-graphic-qtwm6w1svgrk9txp.png"
+                    }
                     alt="USA flag"
                     width="20px"
                     height="17px"

@@ -35,7 +35,7 @@ function SignIn() {
   return (
     <div className="signin-container">
       <Link to="/home" className="amazon-logo">
-        <img src="../../public/Images/pngimg.com_amazon_PNG1.png" alt="" />
+        <img src="https://pngimg.com/uploads/amazon/amazon_PNG1.png" alt="" />
       </Link>
       <div className="signin-form">
         <h2>Sign in</h2>
