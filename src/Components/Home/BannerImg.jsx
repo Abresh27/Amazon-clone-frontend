@@ -7,42 +7,42 @@ const BannerImg = () => {
       <Carousel.Item>
         <img
           className="d-block w-100 "
-          src="../../../public/Images/61P7hqIHrdL._SX3000_1.jpg"
+          src="../../../Images/61P7hqIHrdL._SX3000_1.jpg"
           alt="Slide 1"
         />
       </Carousel.Item>
       <Carousel.Item>
         <img
           className="d-block w-100 "
-          src="../../../public/Images/61lwJy4B8PL._SX3000_2.jpg"
+          src="../../../Images/61lwJy4B8PL._SX3000_2.jpg"
           alt="Slide 2"
         />
       </Carousel.Item>
       <Carousel.Item>
         <img
           className="d-block w-100 "
-          src="../../../public/Images/71Ie3JXGfVL._SX3000_3.jpg"
+          src="../../../Images/71Ie3JXGfVL._SX3000_3.jpg"
           alt="Slide 3"
         />
       </Carousel.Item>
       <Carousel.Item>
         <img
           className="d-block w-100 "
-          src="../../../public/Images/61CiqVTRBEL._SX3000_4.jpg"
+          src="../../../Images/61CiqVTRBEL._SX3000_4.jpg"
           alt="Slide 4"
         />
       </Carousel.Item>
       <Carousel.Item>
         <img
           className="d-block w-100 "
-          src="../../../public/Images/61zAjw4bqPL._SX3000_5.jpg"
+          src="../../../Images/61zAjw4bqPL._SX3000_5.jpg"
           alt="Slide 5"
         />
       </Carousel.Item>
       <Carousel.Item>
         <img
           className="d-block w-100 "
-          src="../../../public/Images/81KkrQWEHIL._SX3000_6.jpg"
+          src="../../../Images/81KkrQWEHIL._SX3000_6.jpg"
           alt="Slide 6"
         />
       </Carousel.Item>
